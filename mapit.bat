@@ -1,0 +1,1 @@
+@py.exe C:\Users\Manuel\github\automateboringstuff\lesson38.py %*
